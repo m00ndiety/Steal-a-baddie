@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/m00ndiety/Steal-a-baddie/refs/heads/main/bd64e7af439d346e.lua.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/m00ndiety/Steal-a-baddie/refs/heads/main/7cec42cd9060630c.lua.txt'))()
